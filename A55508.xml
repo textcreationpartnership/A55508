@@ -1,0 +1,804 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A posing-book for scholars in short questions and answers. Containing a mixture of several things not commonly known among the meaner sort; and yet of great usefulness for all to understand that are willing to be scholars. Being only a rude essay, by a lover of learning, who intends (God permitting, and the inhabitants of England accepting) not only to make this more compleat, but also to prepare by degrees such helps for learning so far as concerns English, that none shall have cause more to complain for want of it: but the slothful, and wilfully ignorant. With allowance.</title>
+            <author>Lover of learning.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55508</idno>
+            <idno type="STC">Wing P3011B</idno>
+            <idno type="STC">ESTC R218333</idno>
+            <idno type="EEBO-CITATION">99829937</idno>
+            <idno type="PROQUEST">99829937</idno>
+            <idno type="VID">34384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A posing-book for scholars in short questions and answers. Containing a mixture of several things not commonly known among the meaner sort; and yet of great usefulness for all to understand that are willing to be scholars. Being only a rude essay, by a lover of learning, who intends (God permitting, and the inhabitants of England accepting) not only to make this more compleat, but also to prepare by degrees such helps for learning so far as concerns English, that none shall have cause more to complain for want of it: but the slothful, and wilfully ignorant. With allowance.</title>
+                  <author>Lover of learning.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst at the Bible and Three Crowns, in Cheapside, near Mercers-Chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on pg. 1: A posing-book for scholars, &amp;c.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Questions and answers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34384:1" rendition="simple:additions"/>
+            <p>A Poſing-Book FOR SCHOLARS IN Short Queſtions and Anſwers.</p>
+            <p>Containing A mixture of ſeveral things not commonly known among the meaner ſort; and yet of great uſefulneſs for all to underſtand that are willing to be Scholars.</p>
+            <p>Being Only a rude Eſſay, by a Lover of Learning, who intends (God permitting, and the Inhabitants of <hi>England</hi> accepting) not on<g ref="char:EOLhyphen"/>ly to make this more compleat, but alſo to prepare by degrees ſuch helps for Learn<g ref="char:EOLhyphen"/>ing ſo far as concerns Engliſh, that none ſhall have cauſe more to complain for want of it: but the Slothful, and wilfully Ignorant.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> in <hi>Cheapſide,</hi> near <hi>Mercers-Chappel.</hi> 1688.</p>
+            <pb facs="tcp:34384:2" rendition="simple:additions"/>
+            <pb facs="tcp:34384:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:34384:3"/>
+            <pb facs="tcp:34384:3"/>
+            <head>How to uſe this Book.</head>
+            <p>LEt all the Scholars, or thoſe that have got one of thoſe Books to uſe, ſtand in a row, then let the lowermoſt ſtand forth, and ask the next above him the firſt queſtion in this Book; and let the other give the anſwer in his own Book; then let the ſame perſon ask the ſame queſtion of the next above, and let him anſwer without Book, if he can anſwer, let the firſt perſon ask the next
+<pb facs="tcp:34384:4"/>queſtion in the Book, and let the anſwer be given in the Book, and then let the third above anſwer without Book. If the third cannot anſwer, ask the next above till ſome body can; and ſo do till three queſtions are asked and anſwered, both within Book and without, and where the laſt queſtion is an<g ref="char:EOLhyphen"/>ſwered, let the perſon asking take his place juſt below, in the like manner, or ſome other, let the next lowermoſt; and ſo all oppoſe each other for their places once a day, more or leſs, as the teacher thinks meet.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34384:4"/>
+            <head>A POSING-BOOK For Scholars, &amp;c.</head>
+            <p>Q. <hi>WHat is moſt commendable for young perſons to ſpend their time about?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Learning of ſuch things which may make them Scholars.</p>
+            <p>Q. <hi>How many ſorts of Learning are there to be learned by Books?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There are ſeven which are called the ſeven Liberal Sciences.</p>
+            <p>Q. <hi>What is meant by Liberal Science?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Book-Knowledge.</p>
+            <p>Q. <hi>What are thoſe Sciences called?</hi>
+            </p>
+            <p>
+               <hi>A.</hi>
+               <list>
+                  <item>1. Grammar.</item>
+                  <item>2. Arithmetick.<note place="margin">Inſtead of ſuch Figures teach them to read firſt, ſecondly, thirdly, and the like: Theſe 7 are but one anſwer, yet whe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> the firſt part is anſwer'd and the reſt forgotten, he that doth ask may ſay thirdly or ſixthly, that it may bring to mind what the reſt of the anſwer is,</note>
+                  </item>
+                  <item>3. Geometry.</item>
+                  <item>4. Muſick.</item>
+                  <item>5. Aſtronomy.</item>
+                  <item>6. Rhetorick.</item>
+                  <item>7. Logick.</item>
+               </list>
+            </p>
+            <pb n="2" facs="tcp:34384:5"/>
+            <p>Q. <hi>Is there no other Book-learning but theſe ſeven ſorts?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes a great deal, but there is no ſort of Book-knowledge but ſome or all of theſe hath a part in it.</p>
+            <p>Q. <hi>What is Grammar?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Grammar is the Art of Speaking, Reading, and Writing.</p>
+            <p>Q. <hi>What is the Grammar Art, who can me tell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Art of Speaking, Reading, Writing well.</p>
+            <p>Q. <hi>Of what uſe is Grammar?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is an Art which doth to all men teach To underſtand right order in their ſpeech.</p>
+            <p>Q. <hi>What doth Grammar ſignifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a Letter Art, or Skill in Letters, An Art to which all other Arts are Debtors.</p>
+            <p>Q. <hi>What is Arithmetick.?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Arithmetick is the Art of num<g ref="char:EOLhyphen"/>bring.</p>
+            <p>Q. <hi>What is Arithmetick, who can me tell?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 'Tis in plain words, the Art of numbring well.</p>
+            <pb n="3" facs="tcp:34384:5"/>
+            <p>Q. <hi>What is Arithmetick commonly called?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Caſting of Accompt or Cyphering.</p>
+            <p>Q. <hi>What is number?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Number is that by which we do expreſs The quantity of things tho' more or leſs.</p>
+            <p>Q. <hi>What is Geometry?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Art of meaſuring the Earth.</p>
+            <p>Q. <hi>What doth the word Geometry ſignifie?</hi>
+            </p>
+            <p>
+               <hi>A. Geo-metria</hi> is the ſame in Greek, as if in Engliſh we ſhould ſay, to mete out, or meaſure the Earth.</p>
+            <p>Q. <hi>What do people mean when they ſay that things hang in Geometry?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That they hang in the Air on no<g ref="char:EOLhyphen"/>thing, or they know not how.</p>
+            <p>Q. <hi>Is it proper thus to ſpeak?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, it is Nonſence.</p>
+            <p>Q. <hi>What is Muſick?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Muſick is the Art of ſinging or making melody with the voice or Inſtrument.</p>
+            <p>Q. <hi>What is Aſtronomy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Aſtronomy is an Art that teacheth to know the order and courſe of the Sun, Moon and Stars.</p>
+            <pb n="4" facs="tcp:34384:6"/>
+            <p>Q. <hi>What is Rhetorick?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Rhetorick is the art of Eloquent and delightful ſpeaking.</p>
+            <p>Q. <hi>What is Logick?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Logick is the Art of right Rea<g ref="char:EOLhyphen"/>ſoning or an art that teacheth to diſpute well.</p>
+            <p>Q. <hi>What do all thoſe Arts teach?</hi>
+            </p>
+            <p>
+               <hi>A.</hi>
+               <list>
+                  <item>1. To ſpeak, read and write.</item>
+                  <item>2. To Number and Reckon.</item>
+                  <item>3. To Meaſure the Earth.</item>
+                  <item>4. To Delight the Mind.</item>
+                  <item>5. To Meaſure the Heaven.</item>
+                  <item>6. To Speak Delightfully.</item>
+                  <item>7. To Underſtand and Speak Reaſon.</item>
+               </list>
+            </p>
+            <p>Q. <hi>Of what uſe is all this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To Glorify God and Benefit Men.</p>
+            <p>Q. <hi>Are all thoſe arts needful to be Learned?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, ſome part of all is needful for every one that would anſwer the end of their being placed in this world.</p>
+            <p>Q. <hi>Why is Grammar needful?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe without skill in words none can read the Holy Bible, the
+<pb n="5" facs="tcp:34384:6"/>word of God, and the beſt book in the World.</p>
+            <p>Q. <hi>Why is Arithmetick needful?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe without knowing num<g ref="char:EOLhyphen"/>bers none can find any chapter or verſe in the Holy Bible, nor yet be able to reckon any thing in their buſineſs.</p>
+            <p>Q. <hi>Why is Geometry needful?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe without underſtanding meaſure none can know how far any place is diſtant from another, nor how much to demand for their labour at harveſt.</p>
+            <p>Q. <hi>Why is Muſick needful?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe thoſe that are merry are to ſing Pſalms, and ſinging is a part of Muſick.</p>
+            <p>Q. <hi>Why is Aſtronomy needful?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the Stars are the work of Gods Fingers, and it teacheth to admire Gods Works.</p>
+            <p>Q. <hi>Why is Rhetorick needful?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe every body ſtrive to uſe it in common diſcourſe, and the word of God is full of it.</p>
+            <p>Q. <hi>Why is Logick needful?</hi>
+            </p>
+            <pb n="6" facs="tcp:34384:7"/>
+            <p>
+               <hi>A.</hi> Becauſe thoſe that underſtand not right reaſon are void of reaſon, and to live with ſuch, there is no rea<g ref="char:EOLhyphen"/>ſon a wiſe man ſhould.</p>
+            <p>Q. <hi>Is there a neceſſity to learn the whole of theſe ſeven Arts?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, But only ſo much as each perſon can attain to.</p>
+            <p>Q. <hi>What may be ſaid of ſuch as are againſt this ſort of Learning?</hi>
+            </p>
+            <p>
+               <hi>A.</hi>
+               <list>
+                  <item>1. They that are againſt Gram<g ref="char:EOLhyphen"/>mar, muſt not ſpeak, read or write.</item>
+                  <item>2. They that are againſt Arithmetick, muſt not number their Fingers or Toes.</item>
+                  <item>3. They that are againſt Geometry, muſt not talk of Miles nor Acres.</item>
+               </list>
+            </p>
+            <p>Theſe anſwers may be accounted as one or as ſeven at the teachers diſcretion.</p>
+            <list>
+               <item>4. They that are againſt Muſick muſt not ſing or whiſtle.</item>
+               <item>5. They that are againſt Aſtronomy, muſt not regard either the riſing or ſeting of Sun, Moon and Stars.</item>
+               <item>6. They that are againſt Rhetorick muſt leave off ſaying [the Pot boiles over.] when tis the liquor
+<pb n="7" facs="tcp:34384:7"/>in the Pot they mean.</item>
+               <item>7. They that are againſt Logick muſt lay aſide their reaſon, and ſo to do will be very unreaſonable.</item>
+            </list>
+            <p>Q. <hi>Why are ſome People ſo much againſt Logick?</hi>
+            </p>
+            <p>
+               <hi>A.</hi>
+               <list>
+                  <item>1. Becauſe they underſtand it not.</item>
+                  <item>2. Becauſe the word ends with [gick] which makes them miſtake it for, or take it to be as bad as [Magick]</item>
+               </list>
+            </p>
+            <p>Q. <hi>Why do ſome ſo much deſpiſe all Learning?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they are like the Fox, that ſaid grapes were not good: But the reaſon was becauſe he could not reach them.</p>
+            <p>Q. <hi>What is Grammar?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> An Art which reacheth the right and due order of ſpeech.</p>
+            <p>Q. <hi>How many parts hath Grammar?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The parts of Grammar are four.
+<list>
+                  <item>1. Letters.<note place="margin">Some Ignorantly im<g ref="char:EOLhyphen"/>agine that Grammar belongs only to the Latin Tongue, but that's a miſtake.</note>
+                  </item>
+                  <item>2. Sylables.</item>
+                  <item>3. Words.</item>
+                  <item>4. Sentences.</item>
+               </list>
+            </p>
+            <p>Q. <hi>What is a letter?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A letter is the leaſt part of a word
+<pb n="8" facs="tcp:34384:8"/>or the mark of a ſingle ſound.</p>
+            <p>Q. <hi>How many letters are uſed in the Engliſh Speech?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Twenty four.</p>
+            <p>Q. <hi>What belongs to each letter?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To each letter belongs three things.
+<list>
+                  <item>1. The Name.</item>
+                  <item>2. The Shape.</item>
+                  <item>3. The Sound.</item>
+               </list>
+            </p>
+            <p>Q. <hi>What are the nawes of the twenty four letters?</hi>
+            </p>
+            <p>
+               <hi>A.</hi>
+               <list>
+                  <item>A, Bee, Cee, Dee,</item>
+                  <item>E, eF, Gee, acH</item>
+                  <item>I, Ka, eL, eM, eN,</item>
+                  <item>O, Pee, Qu, eR, eS, Tee,</item>
+                  <item>U, W, eX, wY, Zad.</item>
+               </list>
+            </p>
+            <p>Q. <hi>What are the ſhapes of the twenty four letters?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Some are great letters, and ſome are ſmall.</p>
+            <p>Q. <hi>How many ſorts of letters, both great and ſmall are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There are three ſorts uſed in printing.</p>
+            <pb n="9" facs="tcp:34384:8"/>
+            <p n="1">1. Engliſh Letters.</p>
+            <p>
+               <hi>A B C D E F G H I K L M N O P Q R S T U W X Y Z.</hi>
+            </p>
+            <p>
+               <hi>a b c d e f g h i k l m n o p q r ſ s t u v w x y z &amp;.</hi>
+            </p>
+            <p n="2">2. Roman Letters.</p>
+            <p>A B C D E F G H I K L M N O P Q R S T U V W X Y Z.</p>
+            <p>a b c d e f g h i k l m n o p q r ſ s t u v w x y z.</p>
+            <p n="3">3. Italian Letters.</p>
+            <p>
+               <hi>A B C D E F G H I K L M N O P Q R S T <g ref="char:V">Ʋ</g> V W X Y Z.</hi>
+            </p>
+            <p>
+               <hi>a b c d e f g h i k l m n o p q r ſ s t u v w x y z.</hi>
+            </p>
+            <p>Q. <hi>Which are the Engliſh Letters?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thoſe which are black, ſuch which old great Bibles are printed in, and Acts of Parliament.</p>
+            <p>Q. <hi>Which are the Roman Letters?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thoſe in which new Bibles are printed, a round full print.</p>
+            <p>Q. <hi>Which are the Italian Letters?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Italian Letters are more long than Roman and more black nearer like writing.</p>
+            <pb n="10" facs="tcp:34384:9"/>
+            <p>Q. <hi>Where are Italian Letters uſed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the Contents of the Chapters in the Bible.</p>
+            <p>Q. <hi>Why are thoſe Letters called Engliſh, Roman, and Italian?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe one belongs to <hi>England,</hi> the other to <hi>Rome,</hi> and the other to <hi>Italy.</hi>
+            </p>
+            <p>Q. <hi>what are the ſounds of the twenty four Letters?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The ſounds are of two ſorts.
+<list>
+                  <item>1. Some are compleat or perfect.</item>
+                  <item>2. Some have not compleat or perfect ſounds.</item>
+               </list>
+            </p>
+            <p>Q. <hi>Which Letters have perfect ſounds?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> theſe five A. E. I. O. U.</p>
+            <p>Q. <hi>What are theſe five Letters called?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Vowels.</p>
+            <p>Q. <hi>What is a Vowel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Vowel is a compleat or perfect ſound.</p>
+            <p>Q. <hi>Why are theſe five Letters</hi> AEIOU <hi>called Vowels?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe theſe letters have a per<g ref="char:EOLhyphen"/>fect ſound of their own.</p>
+            <p>Q. <hi>Which Letters have not perfect ſounds?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All the reſt nineteen beſides the Vowels.</p>
+            <pb n="11" facs="tcp:34384:9"/>
+            <p>Q. <hi>Name them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> B C D F G H K L M N P Q R S T W X Y Z.</p>
+            <p>Q. <hi>What are theſe nineteen Letters called?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Conſonants.</p>
+            <p>Q. <hi>What doth Conſonants ſignifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Fit or agreeable, or proper.</p>
+            <p>Q. <hi>Why are thoſe Letters not Vowels cal<g ref="char:EOLhyphen"/>led Conſonants?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe they are fit to join with Vowels to make compleat ſounds.</p>
+            <p>Q. <hi>How many ſorts of Conſonants are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Of Conſonants ſome may be called compleat or perfect Conſonants, and ſome are not ſo.</p>
+            <p>Q. <hi>How many Conſonants are compleat?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Theſe twelve B D F K L M N P R S T X.</p>
+            <p>Q. <hi>Why are thoſe Letters called compleat Conſonants?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the name of thoſe Letters, and the ſound do agree.</p>
+            <p>Q. <hi>Which Conſonants are not perfect?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Theſe ſeven C G H Q W Y Z.</p>
+            <p>Q. <hi>Why are theſe Conſonants ſaid to be not perfect?</hi>
+            </p>
+            <pb n="12" facs="tcp:34384:10"/>
+            <p>
+               <hi>A.</hi> Becauſe
+<list>
+                  <item>1. The name and ſound of ſome doth not agree as H W Y Z.</item>
+                  <item>2. The ſound of ſome doth change as C G.</item>
+                  <item>3. The Q takes always U after it.</item>
+                  <item>4. Some are uſed ſometimes for Vowels, as W Y.</item>
+               </list>
+            </p>
+            <p>Q. <hi>How many ſorts of Vowels are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There are of Vowels two ſorts, ſome fixed, and others changeable.</p>
+            <p>Q. <hi>Which Vowels are fixed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The A E O are always Vowels.</p>
+            <p>Q. <hi>Which Vowels are changeable?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The I and U are ſometimes Vow<g ref="char:EOLhyphen"/>els, and ſometimes Conſonants.</p>
+            <p>Q. <hi>In what words is I a Vowel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In, is, it, if, mine, thine, and the like.</p>
+            <p>Q. <hi>In what words is I a Conſonant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In <hi>James, Jeſus,</hi> Jigg, <hi>John,</hi> Juſt, Project, and the like; but the ſe<g ref="char:EOLhyphen"/>cond I in Jigg is a Vowel.</p>
+            <p>Q. <hi>In what words is <g ref="char:V">Ʋ</g> a Vowel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In but, us, put, thus, and the like.</p>
+            <p>Q. <hi>In what words is V a Conſonant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In vain, very, vine, voice, vulgar, provoke, and the like; but the ſe<g ref="char:EOLhyphen"/>cond
+<pb n="13" facs="tcp:34384:10"/>U in vulgar is a Vowel.</p>
+            <p>Q. <hi>In what words is W a Conſonant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In was, wet, wine, word, and the like.</p>
+            <p>Q. <hi>In what words is W a Vowel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In ſaw, ſew, ſow, now, and the like.</p>
+            <p>Q. <hi>In what words is Y a Conſonant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In Yarn, yet, <hi>York,</hi> and the like.</p>
+            <p>Q. <hi>In what words is Y a Vowel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In by, cry, dy, and the like.</p>
+            <p>Q. <hi>How doth I ſound when a Conſonant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Almoſt like G.</p>
+            <p>Q. <hi>How doth V ſound when a Conſonant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Almoſt like F.</p>
+            <p>Q. <hi>How doth W ſound when a Vowel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Like the Vowel U.</p>
+            <p>Q. <hi>How doth Y ſound when a Vowel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Like the Vowel I.</p>
+            <p>Q. <hi>How doth C ſound?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Before A O U like K, as in cap, come, curſe; and before E or I, or Y, like S, as in Cedar, City, fancy.</p>
+            <p>Q. <hi>How doth G ſound?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Before A O U, as in gave, Gold, Guts; and before E I or Y, as in <hi>Geneſis,</hi> Giant, Gypſy.</p>
+            <p>Q. <hi>Is this rule always true?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, ſome words are ſounded con<g ref="char:EOLhyphen"/>trary,
+<pb n="14" facs="tcp:34384:11"/>as get, and give.</p>
+            <p>Q. <hi>How is H ſounded?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As in hath, he, him, hold, hurt.</p>
+            <p>Q. <hi>What are thoſe Letters which are cal<g ref="char:EOLhyphen"/>led <g ref="char:V">Ʋ</g>nited Conſonants?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Such are ch, ſh, th, wh, ph, gh.</p>
+            <p>Q. <hi>Why are theſe called <g ref="char:V">Ʋ</g>nited Conſonants?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the ſound of both Letters is made into one.</p>
+            <p>Q. <hi>How is ch ſounded?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In moſt Engliſh words, as it is in Chapter, Cherry, Child, choſe, chur<g ref="char:EOLhyphen"/>liſh. But in words borrowed of the Greek or Hebrew like K, as in <hi>Enoch, Nicholas,</hi> and the like.</p>
+            <p>Q. <hi>How ſhall thoſe Hebrew or Greek words be known?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Moſt names of Perſons or Things in the Holy Bible are ſuch.</p>
+            <p>Q. <hi>Is this rule always true?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, we muſt read Cherubim and <hi>Rachel,</hi> not Kerubim and <hi>Rakel.</hi>
+            </p>
+            <p>Q. <hi>How is gh ſounded?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Moſt times like H, as in taught, ſigh, ſought, though.</p>
+            <p>Q. <hi>How is gh ſounded elſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Sometimes like F, as in laugh.</p>
+            <pb n="15" facs="tcp:34384:11"/>
+            <p>Q. <hi>Should not taught, ſought, though, be ſpoken as taſt, ſoft, thof?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, it is a wrong way of ſpeaking</p>
+            <p>Q. <hi>How is ph ſounded?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Like F, as in Prophet, Phyſick.</p>
+            <p>Q. <hi>What is a Syllable?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Syllable is a Vowel and a Con<g ref="char:EOLhyphen"/>ſonant, or more, joined together to make a compleat ſound.</p>
+            <p>Q. <hi>How many ſorts of Syllables are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two, ſome proper, and ſome im<g ref="char:EOLhyphen"/>proper.</p>
+            <p>Q. <hi>What are improper Syllables?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When only one Vowel is put by it ſelf, as in the word A-ny, E-noch, I-vy, O-ver, U-nion.</p>
+            <p>Q. <hi>Why are theſe Syllables improper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the word Syllable ſigni<g ref="char:EOLhyphen"/>fies a compound, mixt, or double ſound, made by joining Vowels and Conſonants together.</p>
+            <p>Q. <hi>Of how many Letters may a Syllable be made?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Syllable ariſeth from one Let<g ref="char:EOLhyphen"/>ter to eight, as I, do, ſay, that, brave, Knight, brought, ſtrength.</p>
+            <p>Q. <hi>What is a word?</hi>
+            </p>
+            <pb n="16" facs="tcp:34384:12"/>
+            <p>
+               <hi>A.</hi> Either one Syllable or more uſed together to expreſs the name of a thing or action, is called a word.</p>
+            <p>Q. <hi>How many ſorts of words are there ſpoken?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Eight ſorts.
+<list>
+                  <item>1. Names of things, (as Heaven, Earth, &amp;c.) which are called Nouns.</item>
+                  <item>2. Actions, (as to love, to hate) theſe are called Verbs.</item>
+                  <item>3. Words uſed for names, (as I, thou, he,) theſe are called Pronouns.</item>
+                  <item>4. Words which are partly names and partly actions (as loving) theſe are called Participles.</item>
+                  <item>5. Words added to ſhew how a thing was done, or when theſe are called Adverbs.</item>
+                  <item>6. Words ſet before others, (as diſ<g ref="char:EOLhyphen"/>pleaſe, the meaning is not to pleaſe) theſe are called Prepoſitions.</item>
+                  <item>7. Words uſed to join other words together in a Speech, (as and) theſe are called Conjunctions.</item>
+                  <item>8. Words to ſhew ſome ſudden paſſi<g ref="char:EOLhyphen"/>on of the mind, (as oh! alas!) theſe are called Interjections.</item>
+               </list>
+            </p>
+            <pb n="17" facs="tcp:34384:12"/>
+            <p>Q. <hi>What is a Sentence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> So many words uſed together as make a compleat ſenſe is called a Sentence.</p>
+            <p>Q. <hi>What is a Speech?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Many ſentences put together in a diſcourſe is called a Speech.</p>
+            <p>Q. <hi>What is the Sum of all?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Letters make Syllables, Syllables make Words, Words make Sen<g ref="char:EOLhyphen"/>tences, Sentences make a Speech.</p>
+            <p>Q. <hi>What are ſtops and pauſes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thoſe marks put in books, to ſhew where to ſtop in reading.</p>
+            <p>Q. <hi>How many ſtops are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Six, which are called Comma, Semicolon, Colon, Period, Inte<g ref="char:EOLhyphen"/>rogation, Admiration.</p>
+            <p>Q. <hi>Which ſtop is a Comma?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The crooked ſtop thus (,)</p>
+            <p>Q. <hi>How muſt a Comma be uſed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Juſt to ſtop and take breath while one may tell one.</p>
+            <p>Q. <hi>Which is a Semicolon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A crooked ſtroke and a tittle over thus (;)</p>
+            <p>Q. <hi>How muſt a Semicolon be uſed?</hi>
+            </p>
+            <pb n="18" facs="tcp:34384:13"/>
+            <p>
+               <hi>A.</hi> A little longer ſtop than a Colon, while one may tell two.</p>
+            <p>Q. <hi>Which ſtop is a Colon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two tittles thus (:)</p>
+            <p>Q. <hi>How muſt a Colon be uſed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Twice the pauſe of a Semicolon, or while one may tell four.</p>
+            <p>Q. <hi>Which is a Period?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> One tittle (thus.)</p>
+            <p>Q. <hi>How is a Period uſed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Period is an ending ſtop, at which the ſtop ſhould be made full as if all was done ſo long as one might be telling eight.</p>
+            <p>Q. <hi>Which ſtop is an Interrogation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A crooked ſtroke above and a tit<g ref="char:EOLhyphen"/>tle under (thus?)</p>
+            <p>Q. <hi>Of what uſe is an Interrogation.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It ſhews when a queſtion is asked. At this ſtop learn ſo to ſpeak out, As if a queſtion were about.</p>
+            <p>Q. <hi>Which is an Admiration?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A long daſh and a tittle under (thus!)</p>
+            <p>Q. <hi>Of what uſe is an admiration?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Its ſhews when any thing is ſpoken with admiring, ſighing or crying out.
+<pb n="19" facs="tcp:34384:13"/>This ſtop the Reader doth require To ſpeak as if he did admire.</p>
+            <p>Q. <hi>What is Arithmetick?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Art of Numbring.</p>
+            <p>Q. <hi>How many parts hath Arithmetick?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Five which are,
+<list>
+                  <item>1. Numeration.</item>
+                  <item>2. Addition.</item>
+                  <item>3. Subſtraction.</item>
+                  <item>4. Multiplication.</item>
+                  <item>5. Diviſion.</item>
+               </list>
+            </p>
+            <p>Q. <hi>What is Numeration?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To expreſs, read, or reckon num<g ref="char:EOLhyphen"/>bers rightly in Numeration.</p>
+            <p>Q. <hi>What is Addition?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To add or put ſeveral numbers to<g ref="char:EOLhyphen"/>gether into one is Addition.</p>
+            <p>Q. <hi>What is Subſtraction?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To take one Number from ano<g ref="char:EOLhyphen"/>ther is Subſtraction.</p>
+            <p>Q. <hi>What is Multiplication?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To multiply one number by ano<g ref="char:EOLhyphen"/>ther is Multiplication.</p>
+            <p>Q. <hi>What is Diviſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To divide a Number into equal parts is Diviſion.</p>
+            <p>Q. <hi>By what are numbers expreſſed?</hi>
+            </p>
+            <pb n="20" facs="tcp:34384:14"/>
+            <p>
+               <hi>A.</hi> Numbers are expreſſed by Letters and Figures.</p>
+            <p>Q. <hi>What Letters are uſed for Numbers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Theſe ſeven, I. V. X. L. C. D. M.</p>
+            <p>Q. <hi>What Numbers do theſe Letters ſtand for?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I one, V five, X ten, L fifty, C a hundred, D five hundred, M a thouſand.</p>
+            <p>Q. <hi>Where are thoſe Letters uſed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To Number the Chapters and Pſalms in the Holy Bible.</p>
+            <p>Q. <hi>How many figures are uſed for Num<g ref="char:EOLhyphen"/>bers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Only theſe nine and a cypher, 0 1 2 3 4 5 6 7 8 9.</p>
+            <p>Q. <hi>Where are theſe figures uſed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To number the verſes in the Ho<g ref="char:EOLhyphen"/>ly Bible.</p>
+            <lg>
+               <l>
+                  <hi>For the examples look</hi>
+               </l>
+               <l>
+                  <hi>In that moſt holy book.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This ſheet is filled with mixed art,</hi>
+               </l>
+               <l>
+                  <hi>Learn this and have a ſecond part.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34384:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
